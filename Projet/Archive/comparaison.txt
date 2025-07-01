@@ -1,0 +1,193 @@
+Matrices de transition au sein de chaque commune sur toutes les données.
+Modèle HMM entraîné pour Anderlecht avec 400 données.
+Modèle HMM entraîné pour Auderghem avec 400 données.
+Modèle HMM entraîné pour Berchem-Sainte-Agathe avec 400 données.
+Modèle HMM entraîné pour Bruxelles avec 400 données.
+Modèle HMM entraîné pour Etterbeek avec 400 données.
+Modèle HMM entraîné pour Evere avec 400 données.
+Modèle HMM entraîné pour Forest (Bruxelles-Capitale) avec 400 données.
+Modèle HMM entraîné pour Ganshoren avec 400 données.
+Modèle HMM entraîné pour Ixelles avec 400 données.
+Modèle HMM entraîné pour Jette avec 400 données.
+Modèle HMM entraîné pour Koekelberg avec 400 données.
+Modèle HMM entraîné pour Molenbeek-Saint-Jean avec 400 données.
+Modèle HMM entraîné pour Saint-Gilles avec 400 données.
+Modèle HMM entraîné pour Saint-Josse-ten-Noode avec 400 données.
+Modèle HMM entraîné pour Schaerbeek avec 400 données.
+Modèle HMM entraîné pour Uccle avec 400 données.
+Modèle HMM entraîné pour Watermael-Boitsfort avec 400 données.
+Modèle HMM entraîné pour Woluwe-Saint-Lambert avec 400 données.
+Modèle HMM entraîné pour Woluwe-Saint-Pierre avec 400 données.
+Matrice de transition pour Anderlecht:
+[[9.83440627e-01 1.00353289e-02 6.52404376e-03]
+ [2.34739691e-02 9.76526031e-01 9.50511838e-43]
+ [2.27146949e-02 1.89518386e-54 9.77285305e-01]]
+Matrice de transition pour Auderghem:
+[[8.84174228e-01 1.45554112e-02 1.01270360e-01]
+ [3.79768110e-02 9.62023189e-01 3.22234874e-25]
+ [7.41251096e-02 8.65774024e-23 9.25874890e-01]]
+Matrice de transition pour Berchem-Sainte-Agathe:
+[[7.50743866e-01 1.78965266e-02 2.31359607e-01]
+ [2.74074120e-02 9.72592588e-01 4.20756796e-14]
+ [1.44169173e-01 2.51646213e-07 8.55830575e-01]]
+Matrice de transition pour Bruxelles:
+[[9.73247954e-01 1.12652231e-02 1.54868226e-02]
+ [1.66578392e-02 9.83342161e-01 2.55262041e-40]
+ [3.71005169e-02 4.18678782e-79 9.62899483e-01]]
+Matrice de transition pour Etterbeek:
+[[8.75596109e-01 1.24982491e-02 1.11905642e-01]
+ [5.60519572e-02 9.43948043e-01 2.68306725e-35]
+ [1.16848220e-01 3.53882492e-23 8.83151780e-01]]
+Matrice de transition pour Evere:
+[[8.87416803e-01 6.72463360e-03 1.05858563e-01]
+ [2.85530489e-02 9.71446951e-01 1.90209871e-21]
+ [1.14738838e-01 7.96944305e-21 8.85261162e-01]]
+Matrice de transition pour Forest (Bruxelles-Capitale):
+[[9.52575342e-01 1.27762717e-02 3.46483864e-02]
+ [3.39787843e-02 9.66021216e-01 1.06515457e-18]
+ [6.07806582e-02 2.07759793e-28 9.39219342e-01]]
+Matrice de transition pour Ganshoren:
+[[1.73951593e-07 9.99999820e-01 5.93388806e-09]
+ [9.86193986e-01 6.67295222e-07 1.38053467e-02]
+ [1.40003602e-02 6.67073244e-06 9.85992969e-01]]
+Matrice de transition pour Ixelles:
+[[9.47228947e-01 9.20758118e-03 4.35634716e-02]
+ [4.65868627e-02 9.53413137e-01 1.51540102e-53]
+ [8.70431252e-02 7.58396812e-26 9.12956875e-01]]
+Matrice de transition pour Jette:
+[[8.58252974e-01 1.30859880e-02 1.28661038e-01]
+ [1.97647012e-02 9.80235299e-01 2.23271369e-44]
+ [1.49278290e-01 1.96675002e-28 8.50721710e-01]]
+Matrice de transition pour Koekelberg:
+[[7.49215979e-01 9.19222915e-03 2.41591792e-01]
+ [2.86989244e-02 9.71301076e-01 1.14864697e-28]
+ [1.14103534e-01 4.46068782e-22 8.85896466e-01]]
+Matrice de transition pour Molenbeek-Saint-Jean:
+[[9.58869359e-01 1.22204365e-02 2.89102045e-02]
+ [2.82840206e-02 9.71715979e-01 7.64534934e-26]
+ [1.19674658e-02 4.54489457e-25 9.88032534e-01]]
+Matrice de transition pour Saint-Gilles:
+[[9.72107735e-01 2.78922647e-02 8.52493642e-68]
+ [5.21359219e-03 8.86532817e-01 1.08253591e-01]
+ [2.37069341e-71 1.42292954e-01 8.57707046e-01]]
+Matrice de transition pour Saint-Josse-ten-Noode:
+[[8.83038484e-01 6.94800864e-03 1.10013507e-01]
+ [3.05365411e-02 9.69463459e-01 1.55286969e-16]
+ [9.22808483e-02 6.39343889e-18 9.07719152e-01]ear
+Matrice de transition pour Schaerbeek:
+[[9.74997634e-01 1.09002067e-02 1.41021593e-02]
+ [3.44831220e-02 9.65516878e-01 5.80894144e-18]
+ [8.36161978e-03 1.47883346e-20 9.91638380e-01]]
+Matrice de transition pour Uccle:
+[[9.44905074e-01 1.01585532e-02 4.49363727e-02]
+ [5.12287888e-02 9.48771211e-01 2.62780709e-37]
+ [8.28816439e-02 1.98568829e-28 9.17118356e-01]]
+Matrice de transition pour Watermael-Boitsfort:
+[[7.86925599e-01 2.09915470e-02 1.92082854e-01]
+ [4.70363776e-02 9.52963604e-01 1.84916547e-08]
+ [8.68231559e-02 2.42959708e-13 9.13176844e-01]]
+Matrice de transition pour Woluwe-Saint-Lambert:
+[[9.24018801e-01 1.26396719e-02 6.33415274e-02]
+ [2.82283251e-02 9.71771675e-01 5.00826394e-30]
+ [7.73756625e-02 1.47863430e-38 9.22624338e-01]]
+Matrice de transition pour Woluwe-Saint-Pierre:
+[[7.47080872e-01 1.77523316e-02 2.35166796e-01]
+ [5.06933134e-02 9.49306687e-01 1.86931370e-35]
+ [1.49195699e-01 6.48754444e-31 8.50804301e-01]]
+
+ Matrices de transition au sein de chaque commune sur 2/3 des données:
+Modèle HMM entraîné pour Anderlecht avec 266 données.
+Modèle HMM entraîné pour Auderghem avec 266 données.
+Modèle HMM entraîné pour Berchem-Sainte-Agathe avec 266 données.
+Modèle HMM entraîné pour Bruxelles avec 266 données.
+Modèle HMM entraîné pour Etterbeek avec 266 données.
+Modèle HMM entraîné pour Evere avec 266 données.
+Modèle HMM entraîné pour Forest (Bruxelles-Capitale) avec 266 données.
+Modèle HMM entraîné pour Ganshoren avec 266 données.
+Modèle HMM entraîné pour Ixelles avec 266 données.
+Modèle HMM entraîné pour Jette avec 266 données.
+Modèle HMM entraîné pour Koekelberg avec 266 données.
+Modèle HMM entraîné pour Molenbeek-Saint-Jean avec 266 données.
+Modèle HMM entraîné pour Saint-Gilles avec 266 données.
+Modèle HMM entraîné pour Saint-Josse-ten-Noode avec 266 données.
+Modèle HMM entraîné pour Schaerbeek avec 266 données.
+Modèle HMM entraîné pour Uccle avec 266 données.
+Modèle HMM entraîné pour Watermael-Boitsfort avec 266 données.
+Modèle HMM entraîné pour Woluwe-Saint-Lambert avec 266 données.
+Modèle HMM entraîné pour Woluwe-Saint-Pierre avec 266 données.
+Matrice de transition pour Anderlecht:
+[[9.74596871e-01 9.59074383e-03 1.58123851e-02]
+ [2.32520957e-02 9.76747904e-01 1.04476696e-26]
+ [2.63006202e-02 3.23094949e-35 9.73699380e-01]]
+Matrice de transition pour Auderghem:
+[[1.30964020e-02 9.86901436e-01 2.16204066e-06]
+ [9.50360174e-01 1.39678463e-03 4.82430413e-02]
+ [2.25442336e-04 7.40029108e-02 9.25771647e-01]]
+Matrice de transition pour Berchem-Sainte-Agathe:
+[[9.73330433e-01 1.39972488e-02 1.26723182e-02]
+ [1.71321968e-02 9.82867803e-01 7.70952544e-47]
+ [2.51601933e-02 1.67026213e-41 9.74839807e-01]]
+Matrice de transition pour Bruxelles:
+[[5.54458132e-04 9.99441852e-01 3.68947207e-06]
+ [9.67118393e-01 2.20169159e-02 1.08646916e-02]
+ [9.37409555e-03 8.53469231e-05 9.90540558e-01]]
+Matrice de transition pour Etterbeek:
+[[8.27998371e-01 1.75903773e-02 1.54411252e-01]
+ [2.51938616e-02 9.74806138e-01 1.17625358e-18]
+ [7.04169599e-02 2.09894857e-17 9.29583040e-01]]
+Matrice de transition pour Evere:
+[[7.63532105e-01 2.36166147e-01 3.01747649e-04]
+ [9.12384071e-02 9.02307642e-01 6.45395098e-03]
+ [8.51921023e-05 1.19993274e-06 9.99913608e-01]]
+Matrice de transition pour Forest (Bruxelles-Capitale):
+[[9.72712075e-01 2.64289551e-02 8.58970286e-04]
+ [3.27910637e-02 9.67208936e-01 3.05392185e-18]
+ [5.44722254e-03 4.11524469e-19 9.94552777e-01]]
+Matrice de transition pour Ganshoren:
+[[9.01624673e-01 1.79750502e-02 8.04002767e-02]
+ [3.02139387e-02 9.69786061e-01 4.22597795e-14]
+ [3.72896487e-02 6.99434138e-19 9.62710351e-01]]
+Matrice de transition pour Ixelles:
+[[9.02584600e-01 1.13189622e-02 8.60964379e-02]
+ [2.38869705e-02 9.76113029e-01 1.31564894e-52]
+ [8.05094885e-02 2.64282694e-24 9.19490511e-01]]
+Matrice de transition pour Jette:
+[[7.69704917e-01 1.42764997e-02 2.16018583e-01]
+ [1.24001306e-02 9.87599869e-01 8.51185190e-20]
+ [1.21917406e-01 1.01571478e-15 8.78082594e-01]]
+Matrice de transition pour Koekelberg:
+[[6.22425746e-03 9.93771722e-01 4.02022086e-06]
+ [9.41286528e-01 1.05381315e-02 4.81753405e-02]
+ [3.14649626e-03 6.13817507e-02 9.35471753e-01]]
+Matrice de transition pour Molenbeek-Saint-Jean:
+[[1.74842887e-02 9.82515480e-01 2.30850470e-07]
+ [6.78128833e-01 3.21854570e-01 1.65965602e-05]
+ [4.70129882e-03 5.03854660e-04 9.94794847e-01]]
+Matrice de transition pour Saint-Gilles:
+[[9.66814738e-09 9.99999990e-01 3.82921452e-11]
+ [9.89723427e-01 2.81016694e-07 1.02762920e-02]
+ [3.43297885e-13 1.88575055e-16 1.00000000e+00]]
+Matrice de transition pour Saint-Josse-ten-Noode:
+[[9.57467430e-01 4.25325704e-02 4.74648809e-34]
+ [1.62080378e-02 8.90164172e-01 9.36277903e-02]
+ [5.03258463e-25 4.65878618e-02 9.53412138e-01]]
+Matrice de transition pour Schaerbeek:
+[[9.64196512e-01 1.20354501e-02 2.37680377e-02]
+ [2.62306958e-02 9.73769304e-01 8.11610433e-34]
+ [2.74319824e-02 2.40005944e-35 9.72568018e-01]]
+Matrice de transition pour Uccle:
+[[8.67571279e-01 1.61669431e-02 1.16261778e-01]
+ [2.51424380e-02 9.74857562e-01 2.11440946e-34]
+ [8.36455206e-02 6.62123065e-19 9.16354479e-01]]
+Matrice de transition pour Watermael-Boitsfort:
+[[7.42650279e-01 2.36145774e-02 2.33735144e-01]
+ [3.52698499e-02 9.64730150e-01 3.37476446e-13]
+ [6.31110251e-02 1.81180505e-15 9.36888975e-01]]
+Matrice de transition pour Woluwe-Saint-Lambert:
+[[6.64068781e-01 1.00016673e-01 2.35914547e-01]
+ [1.17161465e-01 8.82838535e-01 8.67013838e-15]
+ [8.98120718e-02 4.43316646e-12 9.10187928e-01]]
+Matrice de transition pour Woluwe-Saint-Pierre:
+[[9.10241497e-01 8.97585018e-02 1.54556797e-09]
+ [2.99800226e-01 6.78259181e-01 2.19405935e-02]
+ [7.09729238e-22 2.89896799e-02 9.71010320e-01]]
